@@ -22,7 +22,7 @@ export default function Section() {
       <div className=' fixed top-[-10vh] left-0 h-[120vh] w-full'>
         <motion.div style={{ y }} className=' relative w-full h-full'>
           <Image
-            src='https://images.unsplash.com/photo-1539895360896-16462a60ad12?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZpc2h8ZW58MHx8MHx8fDA%3D'
+            src='https://images.pexels.com/photos/2765872/pexels-photo-2765872.jpeg?auto=compress&cs=tinysrgb&w=800'
             alt='section-img'
             fill
             className=' object-cover'

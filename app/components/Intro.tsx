@@ -16,7 +16,7 @@ export default function Intro() {
       <motion.div style={{ y }} className='relative h-full w-full'>
         <Image
           src={
-            'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2VhfGVufDB8fDB8fHww'
+            'https://images.pexels.com/photos/2049422/pexels-photo-2049422.jpeg?auto=compress&cs=tinysrgb&w=800'
           }
           fill
           alt='image'
