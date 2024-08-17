@@ -22,7 +22,7 @@ export default function Intro() {
       <div className='fixed top-[-10vh] left-0 h-[120vh] w-full'>
         <motion.div style={{ y }} className='relative w-full h-full'>
           <Image
-            src='https://images.pexels.com/photos/1710795/pexels-photo-1710795.jpeg?auto=compress&cs=tinysrgb&w=800'
+            src='https://images.pexels.com/photos/2049422/pexels-photo-2049422.jpeg?auto=compress&cs=tinysrgb&w=800'
             alt='intro-img'
             fill
             className='object-cover'
