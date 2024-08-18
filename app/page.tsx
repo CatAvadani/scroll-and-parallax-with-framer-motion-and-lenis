@@ -1,6 +1,7 @@
 'use client';
 import Lenis from 'lenis';
 import { useEffect } from 'react';
+import Cube from './components/Cube';
 import Description from './components/Description';
 import Intro from './components/Intro';
 import Section from './components/Section';
@@ -23,6 +24,7 @@ export default function Home() {
       <Intro />
       <Description />
       <Section />
+      <Cube />
       <TextParallax />
       <div className=' h-screen'></div>
     </main>
